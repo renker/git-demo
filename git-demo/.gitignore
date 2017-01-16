@@ -1,0 +1,6 @@
+.project
+*.bak
+*.class
+/JAVA/
+/target/
+/.settings/
